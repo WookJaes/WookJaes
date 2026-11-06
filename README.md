@@ -1,47 +1,56 @@
-# 🤖  안녕하세요. 저는 정욱재 입니다.
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20WookJae!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffff241" />
-</div>
 
-<h2 align="center">🚀 Future Backend Engineer</h2>
+## 🧑‍💻 About 🧑‍💻
 
-<div align="center">
-  <p>좋은 구조와 빠른 해결책을 고민하는 백엔드 개발자입니다.</p>
-</div>
+### 🐥 BackEnd · AX(AI Transformation) 엔지니어
 
-<br>
+<br/>
 
-### 🛠️ Tech Stack & Tools
+### 🏫 이력 🏫
 
-**Backend & Database**
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-</div>
+<table>
+  <tr>
+    <th>연도</th>
+    <th>내용</th>
+  </tr>
+  <tr>
+    <td>2026.03. ~ 2026.08.</td>
+    <td>내일배움캠프 실시간 커머스 플랫폼 개발자 4기</td>
+  </tr>
+  <tr>
+    <td>2019.03. ~ 2026.02.</td>
+    <td>단국대학교 소프트웨어학과 학사</td>
+  </tr>
+  <tr>
+    <td>2022.07. ~ 2023.08.</td>
+    <td>
+      <a href="http://securesw.dankook.ac.kr/index.html">단국대학교 컴퓨터 보안 및 운영체제 연구실</a><br/>
+      학부 연구생 (분야: 자동차 포렌식 &amp; 시스템 보안)
+    </td>
+  </tr>
+</table>
 
-<br>
+<br/>
 
-**Frontend**
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
+### 🏅 자격증 🏅
 
-<br>
+<table>
+  <tr>
+    <th>내용</th>
+    <th>발행 기관</th>
+  </tr>
+  <tr>
+    <td>정보처리기사</td>
+    <td>한국산업인력공사(HRD Korea)</td>
+  </tr>
+  <tr>
+    <td>SQL 개발자</td>
+    <td>한국데이터산업진흥원</td>
+  </tr>
+  <tr>
+    <td>데이터 분석 준전문가</td>
+    <td>한국데이터산업진흥원</td>
+  </tr>
+</table>
 
-<br>
-
-**Version Control & Collaboration**
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
-<br>
-
-<div align="center">
-  
 </div>
