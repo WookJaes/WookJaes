@@ -1,12 +1,12 @@
 <div align="center">
 
-## 🧑‍💻 Profile 🧑‍💻
+## 🧑‍💻 Profile
 
 ### 🐥 Backend · AX (AI Transformation) 엔지니어
 
 <br/>
 
-### 🏫 학력 & 활동 🏫
+### 🏫 학력·활동
 
 <table>
   <tr>
@@ -15,7 +15,7 @@
   </tr>
   <tr>
   <td>2026.10. ~ 2026.11.</td>
-  <td>Meta Global AI Developer Hackathon (After Booth)</td>
+  <td>Meta Global AI Developer Hackathon</td>
 </tr>
   <tr>
     <td>2026.03. ~ 2026.08.</td>
@@ -36,12 +36,12 @@
 
 <br/>
 
-### 🏅 자격증 & 수상 🏅
+### 🏅 수상·자격증
 
 <table>
   <tr>
     <th>내용</th>
-    <th>발급 기관</th>
+    <th>기관</th>
   </tr>
   <tr>
     <td>내일배움캠프 최우수상 (FinPlay)</td>
@@ -52,54 +52,58 @@
     <td>한국산업인력공사(HRD Korea)</td>
   </tr>
   <tr>
-    <td>SQL 개발자</td>
+    <td>SQL 개발자 (SQLD)</td>
     <td>한국데이터산업진흥원</td>
   </tr>
   <tr>
-    <td>데이터 분석 준전문가</td>
+    <td>데이터분석 준전문가 (ADsP)</td>
     <td>한국데이터산업진흥원</td>
   </tr>
 </table>
 
 <br/>
 
-## 🛠️ Technical Skills
-
-<br/>
+### 🛠️ Technical Skills
 
 <div align="center">
 
-  <strong>Language &amp; Databases</strong><br/><br/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Java-007396?style=for-the-badge&amp;logo=java-white" alt="Java" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis" />
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://custom-icon-badges.demolab.com/badge/Java-007396?style=flat-square&amp;logo=java-white" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&amp;logo=redis&amp;logoColor=white" alt="Redis" />
+    </td>
+  </tr>
 
-  <br/>
+  <tr>
+    <td><b>Cloud &amp; Infra</b></td>
+    <td>
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=flat-square&amp;logo=aws&amp;logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+    </td>
+  </tr>
 
-  <strong>Framework &amp; Data Access</strong><br/><br/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&amp;logo=springsecurity&amp;logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring Data JPA" />
+  <tr>
+    <td><b>AI Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&amp;logo=claudecode&amp;logoColor=white" alt="Claude Code" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Codex-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Codex" />
+    </td>
+  </tr>
 
-  <br/>
-
-  <strong>Infrastructure &amp; Deployment</strong><br/><br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=for-the-badge&amp;logo=aws&amp;logoColor=white" alt="AWS" />
-
-  <br/>
-
-  <strong>AI Tools</strong><br/><br/>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&amp;logo=claudecode&amp;logoColor=white" alt="Claude Code" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Codex-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex" />
-
-  <br/>
-
-  <strong>Version Control &amp; Collaboration</strong><br/><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Slack-4A154B?style=for-the-badge&amp;logo=slack&amp;logoColor=white" alt="Slack" />
+  <tr>
+    <td><b>Tools &amp; Collaboration</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&amp;logo=discord&amp;logoColor=white" alt="Discord" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Slack-4A154B?style=flat-square&amp;logo=slack&amp;logoColor=white" alt="Slack" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
